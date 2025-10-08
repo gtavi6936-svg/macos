@@ -60,7 +60,4 @@ workflows:
               ])
           else:
               print("⚠️ Thiếu CM_API_TOKEN hoặc CM_APP_ID — không thể tự restart.")
-          PYCODE
-
-      - name: 🚀 Chạy loop
-        script: |
+         
